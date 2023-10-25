@@ -35,5 +35,21 @@ The data was prepared for analysis and it was ensured the data was clean by;
 - New Measures were computed to calculate the severity of casualties
 - Charts were also used for further analysis
 
+# Results and Findings
+After the analysis, it was found that, 
+- The total number of casualties was 409,000.
+- There were 7009 fatal casualties.
+- There were about 58,000 serious casualties.
+- There were about 343,000 casualties with slight injuries.
+- 110,000 accident casualties occurred during the dark while 298,000 occurred during daylight.
+- 250,000 casualties occurred in the urban centres while 159,000 occurred in the rural areas
+- 328,000 casualties occurred by cars which is the most while 994 were by farm vehicles which is the least.
+- 272,000 casualties occurred on dry surface, 113,000 on a wet surface and 22,000 on snowy surface.
+304,000 casualties occurred on a single carriage road, 66,000 on dual carriage roads 26,000 on roundabouts with the least being 5,000 on a slip road
 
+# Dashboard
+Light Theme
+![dashboard light](https://github.com/asopoku/Accident-_Analysis/assets/72577156/74dfe1d8-ac06-4255-aea6-56dee65fd353)
 
+Dark Theme
+![dashboard dark](https://github.com/asopoku/Accident-_Analysis/assets/72577156/ee4f65fd-60ee-4874-a67a-07fab304e269)
