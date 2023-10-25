@@ -53,3 +53,10 @@ Light Theme
 
 Dark Theme
 ![dashboard dark](https://github.com/asopoku/Accident-_Analysis/assets/72577156/ee4f65fd-60ee-4874-a67a-07fab304e269)
+
+# Recommendation
+- Since most accidents occur during daylight, policymakers must intensify traffic regulations to regulate the number of accidents.
+- Since most casualties were by cars, cars must be properly checked and divers must be educated on road safety measures.
+- Policies on traffic regulations in the urban centres must be intensified to reduce the number of casualties in the urban areas.
+- More speed ramps must be constructed on dry road surfaces to slow down drives.
+
